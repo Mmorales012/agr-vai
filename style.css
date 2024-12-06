@@ -1,0 +1,19 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background-color: #f4f4f4;
+    color: #333;
+    margin: 0;
+    padding: 0;
+}
+
+h1 {
+    color: #007bff;
+}
+
+img {
+    width: 300px;   /* Tamanho da imagem */
+    height: auto;   /* Mantém a proporção da imagem */
+    border-radius: 8px; /* Cantos arredondados */
+    margin-top: 20px;  /* Espaço acima da imagem */
+}
